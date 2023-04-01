@@ -39,14 +39,7 @@ export default function Home() {
         })
       }
       </Flex>
-      <Flex justifyContent="flex-end" bg={""}>
-      <CloseButton ml={"160px"} w={"130px"} fontSize={"19"}  bg={"purple"} borderColor={"purple"}>
-        Log In
-      </CloseButton>
-      <CloseButton ml={"10px"} w={"130px"} fontSize={"19"} borderColor={"purple"} bg={"black"}>
-        Sign Up
-      </CloseButton>
-      </Flex>
+      git remote add origin https://github.com/sameer-gujjar911/blog.git
     </Flex>
     </Flex>
     </>
